@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^10.0.2",
+    "daisyui": "^2.51.5",
+    "postcss": "^8.4.22",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
